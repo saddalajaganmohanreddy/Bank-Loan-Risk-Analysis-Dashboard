@@ -1,2 +1,1 @@
-![Dashboard(2).png](Dashboard(2).png)
-
+![Dashboard Screenshot](Dashboard(2).png)
